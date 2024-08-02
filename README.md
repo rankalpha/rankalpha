@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 <!--
 **rankalpha/rankalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](/github-metrics.svg)
+
+![topic icon](/metrics.plugin.topics.icons.svg)
+
+![topic icon](/metrics.plugin.topics.svg)
+
+![habits.facts](/metrics.plugin.habits.facts.svg)
+
+![stargazers](/metrics.plugin.stargazers.svg)
+
+![stargazers.chartist](/metrics.plugin.stargazers.chartist.svg)
